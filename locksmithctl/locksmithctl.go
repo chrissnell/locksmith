@@ -28,8 +28,8 @@ import (
 	"text/tabwriter"
 	"time"
 
-	"github.com/coreos/locksmith/lock"
-	"github.com/coreos/locksmith/version"
+	"github.com/chrissnell/locksmith/lock"
+	"github.com/chrissnell/locksmith/version"
 
 	"github.com/coreos/etcd/client"
 )

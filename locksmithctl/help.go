@@ -17,7 +17,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/coreos/locksmith/version"
+	"github.com/chrissnell/locksmith/version"
 	"os"
 	"strings"
 	"text/template"

@@ -19,7 +19,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/coreos/locksmith/lock"
+	"github.com/chrissnell/locksmith/lock"
 )
 
 var (
